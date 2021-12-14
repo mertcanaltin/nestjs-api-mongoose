@@ -1,0 +1,2 @@
+# nestjs-api-mongoose
+mongoose
